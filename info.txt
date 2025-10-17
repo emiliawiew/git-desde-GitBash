@@ -3,5 +3,7 @@ git add info.txt
 git commit -m "Primer commit: crear archivo info.txt"
 git commit -m "Segundo commit: añadir nueva línea en info.txt"
 git push origin main
-
+git add info.txt
+git commit -m "Tercer commit: cambios en rama2"
+git push origin rama2
 
