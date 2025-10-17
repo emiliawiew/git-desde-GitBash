@@ -1,6 +1,7 @@
 Esta es mi archivo lalala
 git add info.txt
 git commit -m "Primer commit: crear archivo info.txt"
+git commit -m "Segundo commit: añadir nueva línea en info.txt"
 git push origin main
 
 
